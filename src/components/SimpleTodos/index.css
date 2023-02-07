@@ -1,0 +1,23 @@
+.delete-button {
+  outline: none;
+  border-style: solid;
+  border-color: #ff0b37;
+  border-width: 2px;
+  color: #ff0b37;
+  border-radius: 10px;
+  margin-left: 10px;
+  height: 30px;
+  width: 100px;
+  background-color: #ffffff;
+  font-size: 16px;
+}
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.todo-name {
+  font-weight: bold;
+  font-size: 20px;
+  color: #000000;
+}
